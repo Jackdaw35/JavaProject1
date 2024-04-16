@@ -1,1 +1,1 @@
-java -cp .;C:\Users\Lenovo\git\repository\JavaConnectionTOSQL\lib\postgresqldriver.jar MortgageCalculator3
+java -cp C:\Users\Lenovo\git\repository\JavaConnectionTOSQL\bin;C:\Users\Lenovo\git\repository\JavaConnectionTOSQL\lib\* MortgageCalculator3
